@@ -60,6 +60,7 @@ Luego de la instalación de lo anterior, la acción siguiente si deseas ejecutar
 - Seguir las indicaciones del software.
 - Abrir GitHub Desktop y actualizar tus datos.
 
+Repositorio en que fue diseñado: https://github.com/marcelooyaneder/Arboretum_Antumapu
 # CRÉDITOS
 Software desarrllado en el _laboratorio de biología de plantas_ ubicado en el campus Antumapu perteneciente a la Universidad de Chile.
  - Autores: 
