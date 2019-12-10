@@ -20,7 +20,7 @@ Para el correcto funcionamiento del software es necesario tener lo siguiente ins
 ![](https://lh3.googleusercontent.com/nkCqWV88bAT5wzDic6_IQDG6S0fVMuJjTRo5Kqc8A914MsyOd0CRBHL871WsEeQ6hNl6oz5SPy5Q "python PATH")
  - package manager pip (incluido en la instalación previa).
  - GitHub Desktop.
- - Descargar este repositorio
+ - Descargar este repositorio.
 
 Luego de la instalación de lo anterior, la acción siguiente si deseas ejecutar el software es escribir lo siguiente en la terminal (cmd o powershell en windows). 
 
@@ -39,7 +39,10 @@ Luego de la instalación de lo anterior, la acción siguiente si deseas ejecutar
  
 [![](http://img.youtube.com/vi/gjMEehpSTNk/0.jpg)](http://www.youtube.com/watch?v=gjMEehpSTNk "")
 
- - Abrir GitHub Desktop y sincronizar el nuevo repositorio creado a tu pc.
+ - Abrir GitHub Desktop y sincronizar el nuevo repositorio creado a tu pc. (recomendamos ver el siguiente video...)
+
+[![](http://img.youtube.com/vi/IW28zJc7BN0/0.jpg)](http://www.youtube.com/watch?v=IW28zJc7BN0 "")
+
  - Copiar los contenidos descargados de este repositorio a tu **nuevo repositorio**.
  - Luego dirigirse a la carpeta documents y abrir el archivo "dynamiclinks_user_info.csv" y llenar este con los datos requeridos, donde:
     - GitHub_username: corresponde al nombre de usuario de tu cuenta GitHub.
@@ -61,7 +64,6 @@ Luego de la instalación de lo anterior, la acción siguiente si deseas ejecutar
 - Seguir las indicaciones del software.
 - Abrir GitHub Desktop y actualizar tus datos.
 
-Repositorio en que fue diseñado: https://github.com/marcelooyaneder/Arboretum_Antumapu
 # CRÉDITOS
 Software desarrllado en el _laboratorio de biología de plantas_ ubicado en el campus Antumapu perteneciente a la Universidad de Chile.
  - Autores: 
